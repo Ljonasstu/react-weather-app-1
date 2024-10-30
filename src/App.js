@@ -27,7 +27,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            
+            href=""
             target="_blank"
             rel="noopener noreferrer"
           >
